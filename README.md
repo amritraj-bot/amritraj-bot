@@ -1,13 +1,31 @@
-Amrit Raj
-B.Tech CSE @ IIT (BHU)
+# Hi, I'm Amrit Raj 👋
 
-Python | MySQL | Backend Development
+### B.Tech CSE Student @ IIT (BHU)
 
-Currently learning:
-• FastAPI
-• Git/GitHub
-• Backend development
+I'm a Computer Science student interested in Python, backend development,
+and problem solving.
 
-Problem Solving:
-• Codewars — 5 kyu Python
-• 20+ Katas
+## 🛠️ Skills
+
+- Python
+- MySQL
+- FastAPI — currently learning
+- Git & GitHub
+
+## 🧩 Problem Solving
+
+- Codewars: 20+ Katas
+- Python: 5 kyu
+- Honor: 384
+
+## 🚀 Current Focus
+
+- Improving Python
+- Learning FastAPI
+- Building backend projects
+- Learning Git and GitHub
+
+## 📌 Featured Work
+
+- Arbitrary-Precision Decimal String Summation
+- Polynomial Expression Simplifier
