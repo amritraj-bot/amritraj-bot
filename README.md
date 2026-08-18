@@ -1,16 +1,13 @@
-## Hi there 👋
+Amrit Raj
+B.Tech CSE @ IIT (BHU)
 
-<!--
-**amritraj-bot/amritraj-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python | MySQL | Backend Development
 
-Here are some ideas to get you started:
+Currently learning:
+• FastAPI
+• Git/GitHub
+• Backend development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Problem Solving:
+• Codewars — 5 kyu Python
+• 20+ Katas
